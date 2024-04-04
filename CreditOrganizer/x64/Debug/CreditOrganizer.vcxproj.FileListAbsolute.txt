@@ -1,0 +1,2 @@
+C:\Users\Rotaru Daniela\Desktop\INFO\POO\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\Rotaru Daniela\Desktop\INFO\POO\CreditOrganizer\x64\Debug\CreditOrganizer.exe
