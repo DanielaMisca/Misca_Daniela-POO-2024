@@ -1,0 +1,2 @@
+C:\Users\Rotaru Daniela\Desktop\INFO\POO\BigBank\x64\Debug\BigBank.vcxproj.AssemblyReference.cache
+C:\Users\Rotaru Daniela\Desktop\INFO\POO\BigBank\x64\Debug\BigBank.exe
